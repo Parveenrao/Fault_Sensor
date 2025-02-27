@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: machine_learning_project
+Version: 0.0.1
+Author: Parveen
+Author-email: parveeenrao7727@gmail.com
+Requires-Dist: pandas
